@@ -1,0 +1,19 @@
+1. 터미널 설치
+microsoft store
+2. 우분투 설치
+microsoft store
+3. 환경변수 셋팅
+https://velog.io/@iskeiske/%E3%85%81%E3%85%81
+
+
+4. 깃 설치
+$ git config --global user.name "나의 사용자 이름" // 깃 아이디 셋팅
+$ git config --global user.email "내 이메일 주소" // 깃 메일 셋팅
+$ git config --global core.editor nano  // 기본 에디터 나노로 변경
+
+ssh-keygen : 키젠 생성 명령어
+cat ~/.ssh/id_rsa.pub : 생성된 키 보기 -> 깃 홈페이지 셋팅에 들어가서 ssh 키 등록
+
+
+
+5. jdk 설치 
